@@ -1,5 +1,5 @@
 // Made By BRD
-const ids = [1, 2, 3, 4, 5]
+const ids = [1, 2, 3, 4, 5] // IDs
 const writter = ['Simon Sinek', 'J. Clark Scott', 'Robert Cecil Martin', 'Peter Thiel', 'Kyle Simpson']
 const names = ['Start with why', 'But how do it know', 'Clean Code', 'Zero to One', 'You dont know JS']
 let prices = [80.0, 59.9, 50.0, 45.0, 39.9]
